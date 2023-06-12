@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_dinheiro:euros_50"
+    },
+    {
+      "item": "mod_dinheiro:euros_50"
+    },
+    {
+      "item": "mod_dinheiro:euros_50"
+    },
+    {
+      "item": "mod_dinheiro:euros_50"
+    }
+  ],
+  "result": {
+    "item": "mod_dinheiro:euros_200",
+    "count": 1
+  }
+}
