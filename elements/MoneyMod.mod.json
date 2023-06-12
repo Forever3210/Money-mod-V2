@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Money Mod",
+    "icon": {
+      "value": "Items.EMERALD"
+    },
+    "showSearch": true
+  }
+}
