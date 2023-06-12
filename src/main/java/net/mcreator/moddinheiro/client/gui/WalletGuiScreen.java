@@ -68,7 +68,7 @@ public class WalletGuiScreen extends AbstractContainerScreen<WalletGuiMenu> {
 
 	@Override
 	protected void renderLabels(PoseStack poseStack, int mouseX, int mouseY) {
-		this.font.draw(poseStack, "Wallet (The organization choice)", 4, 8, -16777216);
+		this.font.draw(poseStack, "Wallet (The organization choice)", 5, 8, -16777216);
 	}
 
 	@Override

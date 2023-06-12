@@ -212,15 +212,15 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.mod_dinheiro.euros_50": "Euros 5 0",
+      "item.mod_dinheiro.euros_50": "Euros 50",
       "item.mod_dinheiro.euros_5": "5 Euros",
       "item.mod_dinheiro.euros_10": "10 Euros",
       "item.mod_dinheiro.euros_20": "20 Euros",
       "item.mod_dinheiro.euro": "Euro",
       "itemGroup.tabmoney_mod": "Money Mod",
-      "item.mod_dinheiro.euros_100": "Euros 1 0 0",
-      "item.mod_dinheiro.euros_200": "Euros 2 0 0",
-      "item.mod_dinheiro.euros_500": "Euros 5 0 0",
+      "item.mod_dinheiro.euros_100": "Euros 100",
+      "item.mod_dinheiro.euros_200": "Euros 200",
+      "item.mod_dinheiro.euros_500": "Euros 500",
       "item.mod_dinheiro.wallet": "Wallet"
     }
   },
